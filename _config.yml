@@ -8,8 +8,8 @@ description: |
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/course_template/syllabus/
+url: "https://nikimajidifard.github.io/compilers" # the base hostname & protocol for your site
+syllabus: https://nikimajidifard.github.io/compilers/syllabus/
 githubdir: 
 
 # Author/user information
