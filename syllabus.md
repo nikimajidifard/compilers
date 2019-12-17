@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<br>LIST OF TOPICS<br>
+<p style="font-size:50px;">LIST OF TOPICS</p>
 1-Introduction to complier<br>
 2- Types of languages and grammars<br>
 3- Word analysis and correction of word errors<br>
@@ -20,7 +20,7 @@ permalink: /syllabus/
 14- Payment and code optimization<br>
 15- Automatic production of compilers<br>
 
-<p style="color:red;font-sixe:50px;">outcomes</p>
+<p style="font-sixe:50px;">OUTCOMES</p>
 
 1-Familiarity with compiler components and their implementation techniques<br>
 2- Understanding the execution of programming language commands<br>
