@@ -28,9 +28,10 @@ permalink: /syllabus/
 4-Introduction and application of automated tools in production of compiler<br>
 
 <p style="font-size:35px;">ASSESSMENT</p>
-- homeworks : <P style="color:blue;">15%</P>
-- projects : <P style="color:blue;">15%</P>
-- exams : <P style="color:green;">70%</P>
+- homeworks :15%
+- projects  :15%
+- exams     :70%
+
 
 
 
