@@ -3,8 +3,8 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-LIST OF TOPICS
-1-Introduction  to complier
+<br>LIST OF TOPICS<br>
+<br>1-Introduction to complier<br>
 2- Types of languages and grammars
 3- Word analysis and correction of word errors
 4- Syntax analysis
