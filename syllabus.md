@@ -22,10 +22,10 @@ permalink: /syllabus/
 
 outcomes
 
--Familiarity with compiler components and their implementation techniques<br>
-- Understanding the execution of programming language commands<br>
-- Skills in producing optimal programming and fixing programming errors<br>
--Introduction and application of automated tools in production of compiler<br>
+1-Familiarity with compiler components and their implementation techniques<br>
+2- Understanding the execution of programming language commands<br>
+3- Skills in producing optimal programming and fixing programming errors<br>
+4-Introduction and application of automated tools in production of compiler<br>
 
 
 
