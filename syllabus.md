@@ -65,4 +65,4 @@ Second Edition, Boston: Addison-Wesley, 2007.
 
 
 
-<embed src="http://compilerss.com/syllabus.pdf" width="800px" height="2100px" />
+<a href="file:///C:/Users/Asus/AppData/Local/Temp/Rar$DIa13552.46303/syllabus-converted.pdf" target="_blank" download="download">download </a>
