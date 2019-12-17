@@ -65,4 +65,4 @@ Second Edition, Boston: Addison-Wesley, 2007.
 
 
 
-Please find the syllbaus [here](file:///C:/compilers/syllabus-converted.pdf).
+Please find the syllbaus [here](compilers/syllabus-converted.pdf)
