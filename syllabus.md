@@ -36,7 +36,7 @@ permalink: /syllabus/
 - projects  :15%
 - exams     :70%
 
-<p style="font-szie:35px;">GOALS</p>
+<p style="font-size:35px;">GOALS</p>
 Designing and building compilers is one of the basic concepts of computer science. Although the methods of creating compilers are slightly varied, they can be used to construct interpreters and translators of a wide variety of languages and machines. In this lesson, the topic of creating compilers is introduced by describing the main components of a compiler, their tasks, and their relevance.<br>
 After a basic introduction to compiler components and types of grammars, various translation steps such as lexical, syntactic and semantic analysis and code generation and processing are described.
 
