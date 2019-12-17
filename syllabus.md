@@ -27,6 +27,12 @@ permalink: /syllabus/
 3- Skills in producing optimal programming and fixing programming errors<br>
 4-Introduction and application of automated tools in production of compiler<br>
 
+<p style="font-size:35px;">ASSESSMENT</p>
+- homeworks : <P style="color:blue;">15%</P>
+- projects : <P style="color:blue;">15%</P>
+- exams : <P style="color:green;">70%</P>
+
+
 
 
 
