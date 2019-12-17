@@ -65,4 +65,4 @@ Second Edition, Boston: Addison-Wesley, 2007.
 
 
 
-<a href=/_images/syllabus-converted.pdf target="_blank" download="download">download </a>
+ 
