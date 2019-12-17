@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 <br>LIST OF TOPICS<br>
 <br>1-Introduction to complier<br>
-<br>2- Types of languages and grammars<br>
+2- Types of languages and grammars<br>
 <br>3- Word analysis and correction of word errors<br>
 <br>4- Syntax analysis<br>
 <br>5- Top-down decomposition methods<br>
