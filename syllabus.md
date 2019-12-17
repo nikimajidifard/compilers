@@ -20,7 +20,7 @@ permalink: /syllabus/
 14- Payment and code optimization<br>
 15- Automatic production of compilers<br>
 
-<p style="color:red;" style="font-sixe:50px;">outcomes</p>
+<p style="color:red;font-sixe:50px;">outcomes</p>
 
 1-Familiarity with compiler components and their implementation techniques<br>
 2- Understanding the execution of programming language commands<br>
