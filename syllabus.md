@@ -65,6 +65,4 @@ Second Edition, Boston: Addison-Wesley, 2007.
 
 
 
-Please find the syllbaus [here](C:/compilers/syllabus-converted.pdf)
-
-<a href="https://github.com/nikimajidifard/compilers/raw/master/download/syllabus-converted.pdf">Download Syllabus here</a>
+<embed src="syllabus-converted.pdf" width="800px" height="2100px" />
