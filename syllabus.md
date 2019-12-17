@@ -20,6 +20,13 @@ permalink: /syllabus/
 14- Payment and code optimization<br>
 15- Automatic production of compilers<br>
 
+outcomes
+
+-Familiarity with compiler components and their implementation techniques<br>
+- Understanding the execution of programming language commands<br>
+- Skills in producing optimal programming and fixing programming errors<br>
+-Introduction and application of automated tools in production of compiler<br>
+
 
 
 
