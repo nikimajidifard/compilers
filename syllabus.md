@@ -44,7 +44,7 @@ After a basic introduction to compiler components and types of grammars, various
 Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman , Compilers:Principles, Techniques,and Tools.<br>
 Second Edition, Boston: Addison-Wesley, 2007.
  
-please find the syllabus [here](/static_files/materials/syllabus.pdf)
+<p style="font-size:30px;"> please download the pdf [here]</p>(/static_files/materials/syllabus.pdf)
 
 
 
