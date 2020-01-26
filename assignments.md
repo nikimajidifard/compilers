@@ -17,3 +17,9 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
+* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/ass/asst1.pdf)
+* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/ass/asst2.pdf)
+* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/ass/asst3.pdf)
+* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/ass/asst4.pdf)
+* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/ass/asst5.pdf)
