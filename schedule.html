@@ -4,23 +4,57 @@ title: Schedule
 permalink: /schedule/
 ---
 
-<div class="home">
-    <ul class="responsive-table" style="margin-left: 0;">
-        <li class="table-header">
-            <div class="col col-1">Event</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
-        </li>
-          lab 1        introduction     
-        {% assign all_events = site.events | concat: site.lectures %}
-        {% assign all_events = all_events | concat: site.assignments %}
-        {% assign all_events_sorted = all_events | sort: 'date' %}
 
-        {% for event in all_events_sorted reversed %}
-        <li class="table-row table-row-{{ event.type}}">
-            {% include schedule_row_{{ event.type }}.html event=event %}
-        </li>
-        {% endfor %}
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-    </ul>
-</div>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>EVENT</th>
+    <th>DESCRIPTION</th>
+  </tr>
+  <tr>
+    <td>LAB 1</td>
+    <td>INTRODUCTION</td>
+  </tr>
+  <tr>
+    <td>LAB 2</td>
+    <td>LOOPS AND FUNCTIONS</td>
+  </tr>
+  <tr>
+    <td>LAB 3</td>
+    <td>STRUCTS AND ARRAYS</td>
+  </tr>
+  <tr>
+    <td>LAB 4</td>
+    <td>TYPE AND MEMORY SAFETY</td>
+  </tr>
+  <tr>
+    <td>LAB 5</td>
+    <td>OPTIMIZATION</td>
+  </tr>
+</table>
+
+</body>
+</html>
