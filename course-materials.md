@@ -7,7 +7,7 @@ permalink: /course-materials/
 <body>
 
 <h2>HTML Image</h2>
-<img src="pastedImage.png" alt="main source" width="500" height="600">
+<img src="/compilers/compilers/_images/pastedImage.png" alt="main source" width="500" height="600">
 
 </body>
 </html>
