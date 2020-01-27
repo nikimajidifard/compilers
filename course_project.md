@@ -4,15 +4,15 @@ title: Course project
 permalink: /course_project/
 ---
 
-Programming Project:
-Compiler construction for MiniJava
-Description:
-The project is done individually or in groups of two or three students (recommended).
+Programming Project:<br>
+Compiler construction for MiniJava<br>
+Description:<br>
+The project is done individually or in groups of two or three students (recommended).<br>
 You do not need to decide in advance how ambitious you will be; instead you should finish each stage
-before you attempt an extension.
+before you attempt an extension.<br>
 Part of the goal of a project course like this is that you shall deliver working code on time. Thus,
-credits will be awarded for working extensions submitted before the deadline.
-GOOD LUCK.
+credits will be awarded for working extensions submitted before the deadline.<br>
+GOOD LUCK.<br>
 
 * [ download the pdf file ](/static_files/materials/pro/ProgrammingProject.pdf)
 
