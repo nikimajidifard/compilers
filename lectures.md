@@ -19,15 +19,15 @@ You can download the lectures here (in PDF format). I will try to upload lecture
   </tr>
   <tr>
     <td>Recursive Descent Parsing</td>
-    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/parsing1.pdf">here</a>.</p></td>
+    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/parsing1.pdf"><font color="blue">here</font></a>.</p></td>
   </tr>
   <tr>
     <td>LR Parser Construction</td>
-    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/LR.pdf">here</a>.</p></td>
+    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/LR.pdf"><font color="blue">here</font></a>.</p></td>
   </tr>
   <tr>
     <td>Intermediate Representations(IR)</td>
-    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/IR.pdf">here</a>.</p></td>
+    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/IR.pdf"><font color="blue">here</font></a>.</p></td>
   </tr>
 
   <tr>
@@ -36,20 +36,20 @@ You can download the lectures here (in PDF format). I will try to upload lecture
   </tr>
   <tr>
     <td>LAB 2</td>
-    <td> LOOPS AND FUNCTION  <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab2.pdf">test lab 2</a>.</p></td>
+    <td> LOOPS AND FUNCTION  <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab2.pdf"><font color="blue">test lab 2 </font></a>.</p></td>
   </tr>
 
   <tr>
     <td>LAB 3</td>
-    <td>STRUCTS AND ARRAYS   <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab3.pdf">test lab 3</a>.</p></td>
+    <td>STRUCTS AND ARRAYS   <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab3.pdf"><font color="blue">test lab 3 </font></a>.</p></td>
   </tr>
   <tr>
     <td>LAB 4</td>
-    <td>TYPE AND MEMORY SAFETY  <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab4.pdf">test lab 4</a>.</p></td>
+    <td>TYPE AND MEMORY SAFETY  <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab4.pdf"><font color="blue">test lab 4</font></a>.</p></td>
   </tr>
   <tr>
     <td>LAB 5</td>
-    <td>OPTIMIZATION    <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab5.pdf">test lab 5</a>.</p></td>
+    <td>OPTIMIZATION    <p>Open a PDF file <a href="/compilers/static_files/materials/lab/lab5.pdf"><font color="blue">test lab 5</font></a>.</p></td>
   </tr>
 </table>
 
