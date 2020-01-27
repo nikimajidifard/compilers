@@ -12,7 +12,7 @@ permalink: /course-materials/
 </body>
 </html>
 
-* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
+* [ download the pdf file ](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
 
 <html>
 <body>
@@ -23,4 +23,4 @@ permalink: /course-materials/
 </body>
 </html>
 
-* [compiler design by ALferd v. Aho , Monica S. LAm ](/static_files/materials/Books/compilerbookpdf.pdf)
+* [download the pdf file  ](/static_files/materials/Books/compilerbookpdf.pdf)
