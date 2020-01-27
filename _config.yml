@@ -4,6 +4,7 @@ course_name: Fundamentals of Compiler Design
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr einollah khanjari
+    teaching_assistant: Vahid Mohseni
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/compilers" # the subpath of your site, e.g. /blog/
