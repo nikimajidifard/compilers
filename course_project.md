@@ -4,9 +4,9 @@ title: Course project
 permalink: /course_project/
 ---
 
-Programming Project:<br>
+<p style="font-size:35px;">programming project:</p>
 Compiler construction for MiniJava<br>
-Description:<br>
+<p style="font-size:35px;">description:</p>
 The project is done individually or in groups of two or three students (recommended).<br>
 You do not need to decide in advance how ambitious you will be; instead you should finish each stage
 before you attempt an extension.<br>
