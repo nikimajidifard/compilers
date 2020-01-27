@@ -46,12 +46,11 @@ comments: true
 
         <div style="width:70%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                <h2>Teaching Assistant</h2>
+                {% for ta in site.data.people.teaching_assistant %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    <p>salam</p>
-                    sal
+                    <p>Vahid Mohseni</p>
                 </div>
                 {% endfor %}
             </div>
