@@ -18,7 +18,8 @@ permalink: /assignments/
 {% endfor %}
 </ul>
 
-<p><font color="blue">some additional exercises for you</font></p>
+
+<h1 style="color:blue;">some additional exercises for you</h1>
 
 * [ download assignment 1 ](/static_files/materials/ass/asst1.pdf)
 * [ download assignment 2 ](/static_files/materials/ass/asst2.pdf)
