@@ -20,8 +20,8 @@ permalink: /assignments/
 
 <p><font color="blue">some additional exercises for you</font></p>
 
-* [assignment 1 ](/static_files/materials/ass/asst1.pdf)
-* [assignment 2 ](/static_files/materials/ass/asst2.pdf)
-* [assignment 3 ](/static_files/materials/ass/asst3.pdf)
-* [assignment 4 ](/static_files/materials/ass/asst4.pdf)
-* [assignment 5 ](/static_files/materials/ass/asst5.pdf)
+* [ download assignment 1 ](/static_files/materials/ass/asst1.pdf)
+* [ download assignment 2 ](/static_files/materials/ass/asst2.pdf)
+* [ download assignment 3 ](/static_files/materials/ass/asst3.pdf)
+* [ download assignment 4 ](/static_files/materials/ass/asst4.pdf)
+* [ download assignment 5 ](/static_files/materials/ass/asst5.pdf)
