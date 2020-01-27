@@ -52,8 +52,7 @@ You can download the lectures here (in PDF format). I will try to upload lecture
   </tr>
 </table>
 
-</body>
-</html>
+
 
 
 
