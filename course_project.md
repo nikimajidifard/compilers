@@ -14,7 +14,7 @@ Part of the goal of a project course like this is that you shall deliver working
 credits will be awarded for working extensions submitted before the deadline.<br>
 GOOD LUCK.<br>
 
-* [ <p style="font-size:35px;">download the pdf file </p>](/static_files/materials/pro/ProgrammingProject.pdf)
+* [ download the pdf file ](/static_files/materials/pro/ProgrammingProject.pdf)
 
 
 
