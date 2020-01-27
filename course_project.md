@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course pro
+title: Course project
 permalink: /course_project/
 ---
 
