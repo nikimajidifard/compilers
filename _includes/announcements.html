@@ -15,13 +15,13 @@
 <div class="announcement-box" style="margin-top:30px">
 <h2>Announcements</h2>
 <ul>
-    salam
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
                 New Lecture is up: {{ n.title }}
                 {% if n.slides %}
+                <p>salam</p>
                 [<a href="{% if n.slides contains '://' %}
                 {{ n.slides }} 
               {% else %}
