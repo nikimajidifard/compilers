@@ -14,7 +14,8 @@ You can download the lectures here (in PDF format). I will try to upload lecture
   </tr>
   <tr>
     <td>The Procedure Abstraction; Run-Time Storage Organisation</td>
-    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/Subprgm-RuntimeOrg.pdf">here</a>.</p></td>
+    <td> slides<p>open the slides <a href="/compilers/static_files/materials/lec/Subprgm-RuntimeOrg.pdf"><font color="blue">here 
+    </font></a>.</p></td>
   </tr>
   <tr>
     <td>Recursive Descent Parsing</td>
